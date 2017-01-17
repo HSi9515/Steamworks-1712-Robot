@@ -124,6 +124,9 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Accumulated Angle.vi" Type="VI" URL="../Accumulated Angle.vi"/>
+		<Item Name="AnalyzeBlobs.vi" Type="VI" URL="../Vision/AnalyzeBlobs.vi"/>
+		<Item Name="FindBlobs.vi" Type="VI" URL="../../Steamworks-1712-Dash/Vision/FindBlobs.vi"/>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="VisionAim.vi" Type="VI" URL="../VisionAim.vi"/>
@@ -748,7 +751,6 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="AnalyzeBlobs.vi" Type="VI" URL="../../Steamworks-1712-Dash/Vision/AnalyzeBlobs.vi"/>
 			<Item Name="Cull and Group Peg.vi" Type="VI" URL="../../Steamworks-1712-Dash/Vision/Cull and Group Peg.vi"/>
-			<Item Name="FindBlobs.vi" Type="VI" URL="../../Steamworks-1712-Dash/Vision/FindBlobs.vi"/>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
