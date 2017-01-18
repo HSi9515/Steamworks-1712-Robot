@@ -125,17 +125,19 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Vision" Type="Folder">
+			<Item Name="FindBlobs.vi" Type="VI" URL="../Vision/FindBlobs.vi"/>
+			<Item Name="AnalyzeBlobs.vi" Type="VI" URL="../Vision/AnalyzeBlobs.vi"/>
+			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
+			<Item Name="Cull and Group Peg.vi" Type="VI" URL="../Vision/Cull and Group Peg.vi"/>
+			<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
+		</Item>
 		<Item Name="Accumulated Angle.vi" Type="VI" URL="../Accumulated Angle.vi"/>
-		<Item Name="AnalyzeBlobs.vi" Type="VI" URL="../Vision/AnalyzeBlobs.vi"/>
-		<Item Name="Cull and Group Peg.vi" Type="VI" URL="../Vision/Cull and Group Peg.vi"/>
-		<Item Name="FindBlobs.vi" Type="VI" URL="../Vision/FindBlobs.vi"/>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
-		<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
-		<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
 		<Item Name="VisionAim.vi" Type="VI" URL="../VisionAim.vi"/>
-		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="ForwardForInch.vi" Type="VI" URL="../ForwardForInch.vi"/>
 		<Item Name="TurnToDegrees.vi" Type="VI" URL="../TurnToDegrees.vi"/>
+		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
