@@ -115,6 +115,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
+			<Item Name="Climber.lvclass" Type="LVClass" URL="../Climber.lvclass"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
@@ -124,6 +125,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
+			<Item Name="Gear Manipulator.lvclass" Type="LVClass" URL="../Gear Manipulator.lvclass"/>
+			<Item Name="Gear Intake.lvclass" Type="LVClass" URL="../Gear Intake.lvclass"/>
 		</Item>
 		<Item Name="Vision" Type="Folder">
 			<Item Name="FindBlobs.vi" Type="VI" URL="../Vision/FindBlobs.vi"/>
