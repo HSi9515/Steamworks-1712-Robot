@@ -132,11 +132,16 @@ AddOutputFilter chunkFilter
 			<Item Name="Cull and Group Peg.vi" Type="VI" URL="../Vision/Cull and Group Peg.vi"/>
 			<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
 		</Item>
+		<Item Name="PlaceGearStates.ctl" Type="VI" URL="../PlaceGearStates.ctl"/>
 		<Item Name="Accumulated Angle.vi" Type="VI" URL="../Accumulated Angle.vi"/>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
 		<Item Name="VisionAim.vi" Type="VI" URL="../VisionAim.vi"/>
 		<Item Name="ForwardForInch.vi" Type="VI" URL="../ForwardForInch.vi"/>
 		<Item Name="TurnToDegrees.vi" Type="VI" URL="../TurnToDegrees.vi"/>
+		<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
+		<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
+		<Item Name="TurnAimForward.vi" Type="VI" URL="../TurnAimForward.vi"/>
+		<Item Name="TurnApprox.vi" Type="VI" URL="../TurnApprox.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
