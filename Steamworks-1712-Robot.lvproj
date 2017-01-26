@@ -142,6 +142,10 @@ AddOutputFilter chunkFilter
 		<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 		<Item Name="TurnAimForward.vi" Type="VI" URL="../TurnAimForward.vi"/>
 		<Item Name="TurnApprox.vi" Type="VI" URL="../TurnApprox.vi"/>
+		<Item Name="1Gear.vi" Type="VI" URL="../1Gear.vi"/>
+		<Item Name="2Gear.vi" Type="VI" URL="../2Gear.vi"/>
+		<Item Name="NeutralZone.vi" Type="VI" URL="../NeutralZone.vi"/>
+		<Item Name="SmallestAngle.vi" Type="VI" URL="../SmallestAngle.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
