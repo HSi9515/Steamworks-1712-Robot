@@ -134,11 +134,12 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Calculations" Type="Folder">
 			<Item Name="Accumulated Angle.vi" Type="VI" URL="../Accumulated Angle.vi"/>
-			<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
-			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="SmallestAngle.vi" Type="VI" URL="../SmallestAngle.vi"/>
-			<Item Name="TON.vi" Type="VI" URL="../TON.vi"/>
+			<Item Name="LinearInterpolate.vi" Type="VI" URL="../LinearInterpolate.vi"/>
 			<Item Name="OneShot.vi" Type="VI" URL="../OneShot.vi"/>
+			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
+			<Item Name="TON.vi" Type="VI" URL="../TON.vi"/>
+			<Item Name="FancyPID.vi" Type="VI" URL="../FancyPID.vi"/>
 		</Item>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
 		<Item Name="VisionAim.vi" Type="VI" URL="../VisionAim.vi"/>
@@ -151,6 +152,7 @@ AddOutputFilter chunkFilter
 		<Item Name="NeutralZone.vi" Type="VI" URL="../NeutralZone.vi"/>
 		<Item Name="TeleopStates.ctl" Type="VI" URL="../TeleopStates.ctl"/>
 		<Item Name="TeleopStateMachine.vi" Type="VI" URL="../TeleopStateMachine.vi"/>
+		<Item Name="ForwardVision.vi" Type="VI" URL="../ForwardVision.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
