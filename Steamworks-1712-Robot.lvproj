@@ -116,10 +116,11 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="DriveBase.lvclass" Type="LVClass" URL="../Drive Base Class/DriveBase.lvclass"/>
+			<Item Name="Is Speeding Up.vi" Type="VI" URL="../../../Misc/Test Project/Is Speeding Up.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
+			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
-			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="RampFunction.vi" Type="VI" URL="../RampFunction.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
