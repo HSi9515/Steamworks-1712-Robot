@@ -150,6 +150,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Rectangle Comparison Peg.vi" Type="VI" URL="../Vision/Rectangle Comparison Peg.vi"/>
 			<Item Name="FindBlobs.vi" Type="VI" URL="../Vision/FindBlobs.vi"/>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Sorted Particle Report 2016.vi"/>
+			<Item Name="RememberBlobLocation.vi" Type="VI" URL="../Vision/RememberBlobLocation.vi"/>
 		</Item>
 		<Item Name="FancyPID.vi" Type="VI" URL="../FancyPID.vi"/>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
@@ -159,7 +160,6 @@ AddOutputFilter chunkFilter
 		<Item Name="WriteData.vi" Type="VI" URL="../WriteData.vi"/>
 		<Item Name="WriteHeaders.vi" Type="VI" URL="../WriteHeaders.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="RememberBlobLocation.vi" Type="VI" URL="../Vision/RememberBlobLocation.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="FRIC_navX_Clear_Buffer_Warning.vi" Type="VI" URL="/&lt;userlib&gt;/navX/_Processing Loop/FRIC_navX_Clear_Buffer_Warning.vi"/>
