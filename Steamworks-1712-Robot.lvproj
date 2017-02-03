@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="DriveBase.lvclass" Type="LVClass" URL="../Drive Base Class/DriveBase.lvclass"/>
+			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Is Speeding Up.vi" Type="VI" URL="../../../Misc/Test Project/Is Speeding Up.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
@@ -125,7 +126,6 @@ AddOutputFilter chunkFilter
 			<Item Name="RampFunction.vi" Type="VI" URL="../RampFunction.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="WriteData.vi" Type="VI" URL="../WriteData.vi"/>
-			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="WriteHeaders.vi" Type="VI" URL="../WriteHeaders.vi"/>
