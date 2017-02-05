@@ -130,6 +130,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="WriteHeaders.vi" Type="VI" URL="../WriteHeaders.vi"/>
 			<Item Name="ErrorMessages1.vi" Type="VI" URL="../ErrorMessages1.vi"/>
+			<Item Name="PDP Channels.vi" Type="VI" URL="../PDP Channels.vi"/>
 		</Item>
 		<Item Name="PID Angle Testing.vi" Type="VI" URL="../PID Angle Testing.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
